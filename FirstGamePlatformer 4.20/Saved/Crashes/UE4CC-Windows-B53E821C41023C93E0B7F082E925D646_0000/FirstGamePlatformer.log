@@ -1,0 +1,1994 @@
+﻿Log file open, 07/21/18 01:42:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FirstGamePlatformer
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1994725592) SRandInit(-1994725592).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181741
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.714s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Humza (192.168.1.156:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: H:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.026s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.21-05.42.17:864][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.21-05.42.17:864][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.21-05.42.17:994][  0]LogInit: Computer: HUMZA
+[2018.07.21-05.42.17:994][  0]LogInit: User: USER
+[2018.07.21-05.42.17:994][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.21-05.42.17:994][  0]LogInit: High frequency timer resolution =2.533309 MHz
+[2018.07.21-05.42.17:995][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.07.21-05.42.17:995][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.21-05.42.17:995][  0]LogMemory: Process Physical Memory: 275.97 MB used, 275.97 MB peak
+[2018.07.21-05.42.17:995][  0]LogMemory: Process Virtual Memory: 266.09 MB used, 266.09 MB peak
+[2018.07.21-05.42.17:995][  0]LogMemory: Physical Memory: 5733.53 MB used,  2276.82 MB free, 8010.35 MB total
+[2018.07.21-05.42.17:995][  0]LogMemory: Virtual Memory: 680.98 MB used,  2276.82 MB free, 134217728.00 MB total
+[2018.07.21-05.42.18:049][  0]LogInit: Using OS detected language (en-US).
+[2018.07.21-05.42.18:049][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.21-05.42.18:059][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.21-05.42.18:856][  0]LogStreaming: Display: Took  0.806s to EndInitTextLocalization.
+[2018.07.21-05.42.18:856][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.21-05.42.18:913][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.21-05.42.18:913][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.21-05.42.19:471][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.21-05.42.19:478][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.07.21-05.42.19:479][  0]LogD3D11RHI:       96/0/1696 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2018.07.21-05.42.19:484][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.21-05.42.19:484][  0]LogD3D11RHI:       0/0/4005 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.21-05.42.19:484][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.21-05.42.19:511][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.21-05.42.19:511][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.21-05.42.19:511][  0]LogWindows: EnumDisplayDevices:
+[2018.07.21-05.42.19:511][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.07.21-05.42.19:512][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:1)
+[2018.07.21-05.42.19:512][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.07.21-05.42.19:512][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.21-05.42.19:512][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2018.07.21-05.42.19:512][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.21-05.42.19:512][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.21-05.42.19:513][  0]LogRHI: Texture pool is 660 MB (70% of 944 MB)
+[2018.07.21-05.42.19:519][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.21-05.42.19:528][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.07.21-05.42.19:530][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../Unreal Games/FirstGamePlatformer/Intermediate/Shaders/WorkingDirectory/139360/).
+[2018.07.21-05.42.19:531][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/89A8336B4669DDFC4A4B8A939418ED54/'.
+[2018.07.21-05.42.20:165][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.21-05.42.20:199][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.21-05.42.20:233][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.21-05.42.20:266][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.21-05.42.20:301][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.21-05.42.20:334][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.21-05.42.20:367][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.21-05.42.20:401][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.21-05.42.20:416][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.21-05.42.20:448][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.21-05.42.20:478][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.21-05.42.20:511][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.21-05.42.20:541][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.21-05.42.20:573][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.21-05.42.20:605][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.21-05.42.20:669][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.21-05.42.20:669][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.21-05.42.20:701][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.21-05.42.20:705][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.21-05.42.20:765][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.21-05.42.20:796][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.21-05.42.20:829][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.21-05.42.20:861][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.21-05.42.20:894][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.21-05.42.20:928][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.21-05.42.20:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.21-05.42.21:179][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.21-05.42.21:179][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.21-05.42.21:179][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.21-05.42.22:801][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.21-05.42.22:927][  0]LogDerivedDataCache: Loaded boot cache 0.12s 74MB C:/Users/USER/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.21-05.42.22:927][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.21-05.42.22:927][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Games/FirstGamePlatformer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.21-05.42.22:927][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.21-05.42.22:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Games/FirstGamePlatformer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.21-05.42.22:928][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.21-05.42.22:952][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.21-05.42.22:965][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.21-05.42.22:965][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.21-05.42.22:965][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.21-05.42.22:984][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.21-05.42.22:984][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.21-05.42.22:985][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.21-05.42.22:985][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.21-05.42.23:178][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.07.21-05.42.23:805][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.21-05.42.24:134][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.21-05.42.24:139][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.21-05.42.24:139][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.21-05.42.24:139][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.21-05.42.24:139][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.21-05.42.24:139][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.21-05.42.24:203][  0]LogNetVersion: FirstGamePlatformer , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3097659385)
+[2018.07.21-05.42.25:260][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.258986 seconds
+[2018.07.21-05.42.25:268][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.21-05.42.25:268][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.21-05.42.25:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.21-05.42.28:281][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.21-05.42.28:323][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.21-05.42.28:884][  0]SourceControl: Source control is disabled
+[2018.07.21-05.42.28:884][  0]SourceControl: Source control is disabled
+[2018.07.21-05.42.28:915][  0]SourceControl: Source control is disabled
+[2018.07.21-05.42.28:944][  0]SourceControl: Source control is disabled
+[2018.07.21-05.42.30:016][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.21-05.42.30:337][  0]LogOcInput: OculusInput pre-init called
+[2018.07.21-05.42.30:587][  0]LogEngine: Initializing Engine...
+[2018.07.21-05.42.30:590][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.21-05.42.30:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.21-05.42.30:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.21-05.42.31:043][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.21-05.42.31:108][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-05.42.31:133][  0]LogInit: FAudioDevice initialized.
+[2018.07.21-05.42.31:558][  0]LogDerivedDataCache: Saved boot cache 0.42s 74MB C:/Users/USER/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.21-05.42.31:577][  0]LogInit: Texture streaming: Enabled
+[2018.07.21-05.42.31:609][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.21-05.42.31:696][  0]LogInit: Transaction tracking system initialized
+[2018.07.21-05.42.31:739][  0]BlueprintLog: New page: Editor Load
+[2018.07.21-05.42.31:863][  0]LocalizationService: Localization service is disabled
+[2018.07.21-05.42.32:044][  0]LogConsoleResponse: Display: 
+[2018.07.21-05.42.32:801][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.21-05.42.32:801][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.21-05.42.32:802][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.21-05.42.32:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.21-05.42.32:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.21-05.42.33:026][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal Games/FirstGamePlatformer/Content/' took 0.01s
+[2018.07.21-05.42.33:480][  0]SourceControl: Source control is disabled
+[2018.07.21-05.42.33:480][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.21-05.42.33:481][  0]LightingResults: New page: Lighting Build
+[2018.07.21-05.42.33:485][  0]MapCheck: New page: Map Check
+[2018.07.21-05.42.33:485][  0]LightingResults: New page: Lighting Build
+[2018.07.21-05.42.33:636][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb1db2be0, Size=216, Default__ProjectileBP_C Function /Game/Blueprint/ProjectileBP.ProjectileBP_C:ExecuteUbergraph_ProjectileBP
+[2018.07.21-05.42.33:640][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb1db2be0, Size=216
+[2018.07.21-05.42.33:640][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb1db2be0, Size=216, Default__ProjectileBP_C Function /Engine/Transient.REINST_ProjectileBP_C_3:ExecuteUbergraph_ProjectileBP
+[2018.07.21-05.42.33:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb1db1d00, Size=216, Default__ProjectileBP_C Function /Game/Blueprint/ProjectileBP.ProjectileBP_C:ExecuteUbergraph_ProjectileBP
+[2018.07.21-05.42.34:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fcc4d5d00, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-05.42.34:222][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fcc4d5d00, Size=1296
+[2018.07.21-05.42.34:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb2a6a400, Size=1296, Default__PlayerBP_C Function /Engine/Transient.REINST_PlayerBP_C_5:ExecuteUbergraph_PlayerBP
+[2018.07.21-05.42.34:249][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29b0f00, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-05.42.34:259][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb2992e00, Size=248, Default__LadderBP_C Function /Game/Blueprint/LadderBP.LadderBP_C:ExecuteUbergraph_LadderBP
+[2018.07.21-05.42.34:270][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb2992e00, Size=248
+[2018.07.21-05.42.34:270][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb2992e00, Size=248, Default__LadderBP_C Function /Engine/Transient.REINST_LadderBP_C_7:ExecuteUbergraph_LadderBP
+[2018.07.21-05.42.34:307][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb299e000, Size=248, Default__LadderBP_C Function /Game/Blueprint/LadderBP.LadderBP_C:ExecuteUbergraph_LadderBP
+[2018.07.21-05.42.34:316][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29a4e20, Size=224, Default__PickUpBaseBP_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:317][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29bf1f0, Size=16, Default__GameControllerBP_C Function /Game/Blueprint/GameControllerBP.GameControllerBP_C:ExecuteUbergraph_GameControllerBP
+[2018.07.21-05.42.34:344][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29a4560, Size=224, Default__PickUpBaseBPMushroom_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:378][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb2933660, Size=224, Default__PickUpBaseBPRing_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:384][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29333c0, Size=224, Default__PickUpBaseBPRing_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:385][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29332e0, Size=224, Default__PickUpBaseBPMushroom_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:440][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29a4e20, Size=224
+[2018.07.21-05.42.34:441][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb2931ec0, Size=224, Default__PickUpBaseBP_C Function /Engine/Transient.REINST_PickUpBaseBP_C_9:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:441][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29332e0, Size=224
+[2018.07.21-05.42.34:441][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29332e0, Size=224, Default__PickUpBaseBPMushroom_C Function /Engine/Transient.REINST_PickUpBaseBP_C_9:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:441][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29333c0, Size=224
+[2018.07.21-05.42.34:442][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29333c0, Size=224, Default__PickUpBaseBPRing_C Function /Engine/Transient.REINST_PickUpBaseBP_C_9:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:442][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29bf1f0, Size=16
+[2018.07.21-05.42.34:442][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29bf1f0, Size=16, Default__GameControllerBP_C Function /Engine/Transient.REINST_GameControllerBP_C_12:ExecuteUbergraph_GameControllerBP
+[2018.07.21-05.42.34:448][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb26bfba0, Size=224, Default__PickUpBaseBP_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:448][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb26bfac0, Size=224, Default__PickUpBaseBPMushroom_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:448][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb26bf9e0, Size=224, Default__PickUpBaseBPRing_C Function /Game/Blueprint/Pickups/PickUpBaseBP.PickUpBaseBP_C:ExecuteUbergraph_PickUpBaseBP
+[2018.07.21-05.42.34:449][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fb29bfa30, Size=16, Default__GameControllerBP_C Function /Game/Blueprint/GameControllerBP.GameControllerBP_C:ExecuteUbergraph_GameControllerBP
+[2018.07.21-05.42.35:126][  0]LogAIModule: Creating AISystem for world Main
+[2018.07.21-05.42.35:173][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb1db2be0, Size=216
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb2a6a400, Size=1296
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb2992e00, Size=248
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb2931ec0, Size=224
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29bf1f0, Size=16
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29332e0, Size=224
+[2018.07.21-05.42.35:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29333c0, Size=224
+[2018.07.21-05.42.35:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.21-05.42.35:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.371ms to complete.
+[2018.07.21-05.42.35:306][  0]LogFileHelpers: Loading map 'Main' took 1.826
+[2018.07.21-05.42.36:021][  0]LogCollectionManager: Loaded 0 collections in 0.002072 seconds
+[2018.07.21-05.42.36:351][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal Games/FirstGamePlatformer/Saved/Collections/' took 0.01s
+[2018.07.21-05.42.36:351][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal Games/FirstGamePlatformer/Content/Developers/USER/Collections/' took 0.01s
+[2018.07.21-05.42.36:351][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal Games/FirstGamePlatformer/Content/Collections/' took 0.01s
+[2018.07.21-05.42.36:351][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.21-05.42.36:383][  0]LogContentBrowser: Native class hierarchy populated in 0.0304 seconds. Added 2452 classes and 558 folders.
+[2018.07.21-05.42.36:514][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.21-05.42.37:260][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.21-05.42.37:326][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.21-05.42.43:326][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.21-05.42.43:524][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.21-05.42.43:529][  0]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.21-05.42.43:592][  0]LogSlate: Took 0.050277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.21-05.42.44:000][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FirstGamePlatformer
+[2018.07.21-05.42.44:000][  0]LogTemp: CWD: H:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.21-05.42.44:000][  0]LogTemp: Initial Dir: H:\Epic Games\UE_4.19
+[2018.07.21-05.42.44:000][  0]LogTemp: Env CWD: H:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.21-05.42.44:000][  0]LogTemp: BranchPath = HUMZA/H/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = HUMZA/H/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.21-05.42.44:000][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\USER\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.21-05.42.44:000][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.07.21-05.42.45:176][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.21-05.42.45:176][  0]LogLoad: (Engine Initialization) Total time: 33.62 seconds
+[2018.07.21-05.42.45:176][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.21-05.42.45:186][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.21-05.42.45:213][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.21-05.42.45:415][  0]LogSlate: Took 0.055966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.21-05.42.46:886][  3]LogAssetRegistry: Asset discovery search completed in 23.7302 seconds
+[2018.07.21-05.42.46:944][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.21-05.42.46:944][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2018.07.21-05.42.46:966][  3]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.21-05.43.01:049][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.43.02:420][282]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2018.07.21-05.43.03:473][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ffeb82430, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.21-05.43.03:498][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ffeb82428, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.21-05.43.05:156][282]LogSlate: Took 0.152343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.21-05.43.08:782][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-05.43.09:009][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-05.43.09:160][510]PIE: New page: PIE session: Main (Jul 20, 2018, 9:43:09 PM)
+[2018.07.21-05.43.09:160][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-05.43.09:165][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004742s)
+[2018.07.21-05.43.09:166][510]LogAIModule: Creating AISystem for world Main
+[2018.07.21-05.43.09:167][510]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2018.07.21-05.43.09:167][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006775s)
+[2018.07.21-05.43.09:212][510]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-05.43.09:675][510]LogInit: FAudioDevice initialized.
+[2018.07.21-05.43.09:752][510]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-05.43.09:757][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-01.43.09
+[2018.07.21-05.43.09:788][510]LogWorld: Bringing up level for play took: 0.034845
+[2018.07.21-05.43.09:929][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.07.21-05.43.09:995][510]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.844
+[2018.07.21-05.43.12:235][559]LogBlueprintUserMessages: [GameControllerBP_C_0] Mushroom
+[2018.07.21-05.43.46:635][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.44.33:902][368]LogSlate: Took 0.105668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.21-05.45.52:758][368]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f82317a38, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.45.56:417][682]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f82317a38, Size=4
+[2018.07.21-05.45.56:417][682]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84a2e908, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_5:ExecuteUbergraph_HUD
+[2018.07.21-05.45.56:419][682]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84a2e978, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.46.03:966][905]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84a2e978, Size=4
+[2018.07.21-05.46.03:966][905]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84880a30, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_6:ExecuteUbergraph_HUD
+[2018.07.21-05.46.03:968][905]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84880ad0, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.46.09:709][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84880ad0, Size=4
+[2018.07.21-05.46.09:709][382]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fa3059390, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_7:ExecuteUbergraph_HUD
+[2018.07.21-05.46.09:711][382]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fa305a2f8, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.46.19:600][124]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fa305a2f8, Size=4
+[2018.07.21-05.46.19:601][124]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84bb7f08, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_8:ExecuteUbergraph_HUD
+[2018.07.21-05.46.19:603][124]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84bb7dd0, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.46.30:109][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84bb7dd0, Size=4
+[2018.07.21-05.46.30:109][131]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f868febe0, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_9:ExecuteUbergraph_HUD
+[2018.07.21-05.46.30:113][131]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f868fc548, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.46.34:973][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f868fc548, Size=4
+[2018.07.21-05.46.34:973][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fa7ecf538, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_10:ExecuteUbergraph_HUD
+[2018.07.21-05.46.34:976][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fa7ecf5b0, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.46.56:658][767]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fa7ecf5b0, Size=4
+[2018.07.21-05.46.56:658][767]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f8471fa30, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_11:ExecuteUbergraph_HUD
+[2018.07.21-05.46.56:660][767]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f8471f9d0, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.48.03:868][700]BlueprintLog: New page: Compile HUD
+[2018.07.21-05.48.03:903][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f8471f9d0, Size=4
+[2018.07.21-05.48.03:903][700]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84bb77d8, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_12:ExecuteUbergraph_HUD
+[2018.07.21-05.48.04:011][700]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f847e6860, Size=32, Default__HUD_C Function /Game/Blueprint/HUD.HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84bb77d8, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f8471fa30, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fa7ecf538, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f868febe0, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84bb7f08, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fa3059390, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84880a30, Size=4
+[2018.07.21-05.48.04:062][700]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84a2e908, Size=4
+[2018.07.21-05.48.04:340][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD.uasset" SILENT=true
+[2018.07.21-05.48.04:746][700]LogSavePackage: Save=137.19ms
+[2018.07.21-05.48.04:746][700]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/HUD01DD5F54462B5E7B2A09CD8B299B7EFE.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD.uasset'
+[2018.07.21-05.48.04:758][700]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD.uasset
+[2018.07.21-05.48.11:181][178]LogSlate: Took 0.094488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.07.21-05.48.18:764][888]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f84bb6a88, Size=4, Default__SKEL_HUD_C Function /Game/Blueprint/HUD.SKEL_HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.48.44:332][517]BlueprintLog: New page: Compile HUD
+[2018.07.21-05.48.44:339][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f84bb6a88, Size=4
+[2018.07.21-05.48.44:339][517]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024fa3059300, Size=4, Default__SKEL_HUD_C Function /Engine/Transient.REINST_SKEL_HUD_C_15:ExecuteUbergraph_HUD
+[2018.07.21-05.48.44:348][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f847e6860, Size=32
+[2018.07.21-05.48.44:348][517]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f847e6860, Size=32, HUD_C_22 Function /Engine/Transient.REINST_HUD_C_16:ExecuteUbergraph_HUD
+[2018.07.21-05.48.44:379][517]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f847e4780, Size=32, Default__HUD_C Function /Game/Blueprint/HUD.HUD_C:ExecuteUbergraph_HUD
+[2018.07.21-05.48.44:420][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fa3059300, Size=4
+[2018.07.21-05.48.44:506][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD.uasset" SILENT=true
+[2018.07.21-05.48.44:541][517]LogSavePackage: Save=23.21ms
+[2018.07.21-05.48.44:541][517]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/HUDE6A3182A4C806CBFDA8081BB84184FDC.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD.uasset'
+[2018.07.21-05.48.44:547][517]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD.uasset
+[2018.07.21-05.48.46:887][699]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-05.48.46:996][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-05.48.46:997][699]PIE: New page: PIE session: Main (Jul 20, 2018, 9:48:46 PM)
+[2018.07.21-05.48.46:997][699]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-05.48.47:003][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005704s)
+[2018.07.21-05.48.47:004][699]LogAIModule: Creating AISystem for world Main
+[2018.07.21-05.48.47:004][699]LogPlayLevel: PIE: World Init took: (0.001641s)
+[2018.07.21-05.48.47:005][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.007772s)
+[2018.07.21-05.48.47:051][699]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-05.48.47:065][699]LogInit: FAudioDevice initialized.
+[2018.07.21-05.48.47:133][699]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-05.48.47:137][699]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-01.48.47
+[2018.07.21-05.48.47:138][699]LogWorld: Bringing up level for play took: 0.003619
+[2018.07.21-05.48.47:142][699]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.992
+[2018.07.21-05.49.01:037][ 23]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.02:984][ 23]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.03:054][ 23]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.03:129][ 23]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.03:208][ 23]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.03:997][ 24]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.07.21-05.49.04:156][ 24]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing)
+[2018.07.21-05.49.26:796][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.49.26:886][408]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-05.49.26:932][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-05.49.26:932][408]PIE: New page: PIE session: Main (Jul 20, 2018, 9:49:26 PM)
+[2018.07.21-05.49.26:933][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-05.49.26:943][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010308s)
+[2018.07.21-05.49.26:944][408]LogAIModule: Creating AISystem for world Main
+[2018.07.21-05.49.26:944][408]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2018.07.21-05.49.26:944][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.011850s)
+[2018.07.21-05.49.27:103][408]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-05.49.27:115][408]LogInit: FAudioDevice initialized.
+[2018.07.21-05.49.27:154][408]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-05.49.27:158][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-01.49.27
+[2018.07.21-05.49.27:158][408]LogWorld: Bringing up level for play took: 0.003835
+[2018.07.21-05.49.27:163][408]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.013
+[2018.07.21-05.49.34:594][647]LogBlueprintUserMessages: [GameControllerBP_C_0] Mushroom
+[2018.07.21-05.49.42:815][899]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.43:636][913]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.44:267][925]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.44:866][936]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing6)
+[2018.07.21-05.49.45:256][940]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing6)
+[2018.07.21-05.49.51:511][ 84]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.52:274][ 97]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.53:357][118]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.54:152][133]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.54:919][147]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.49.55:945][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.49.56:093][169]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-05.49.56:127][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-05.49.56:128][169]PIE: New page: PIE session: Main (Jul 20, 2018, 9:49:56 PM)
+[2018.07.21-05.49.56:129][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-05.49.56:136][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007129s)
+[2018.07.21-05.49.56:137][169]LogAIModule: Creating AISystem for world Main
+[2018.07.21-05.49.56:137][169]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2018.07.21-05.49.56:137][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.008817s)
+[2018.07.21-05.49.56:170][169]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-05.49.56:181][169]LogInit: FAudioDevice initialized.
+[2018.07.21-05.49.56:215][169]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-05.49.56:218][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-01.49.56
+[2018.07.21-05.49.56:219][169]LogWorld: Bringing up level for play took: 0.002691
+[2018.07.21-05.49.56:222][169]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.071
+[2018.07.21-05.49.59:558][265]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.00:239][276]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.00:938][290]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing5)
+[2018.07.21-05.50.01:200][291]LogEditorViewport: Clicking on Actor (double click): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.02:101][309]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.02:415][313]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.07.21-05.50.02:934][315]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing5)
+[2018.07.21-05.50.09:023][451]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing6)
+[2018.07.21-05.50.10:692][488]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing5)
+[2018.07.21-05.50.12:264][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.50.18:407][669]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.18:835][676]Cmd: TRANSACTION UNDO
+[2018.07.21-05.50.18:835][676]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.21-05.50.20:253][738]Cmd: TRANSACTION UNDO
+[2018.07.21-05.50.20:253][738]LogEditorTransaction: Undo Set Location
+[2018.07.21-05.50.21:498][766]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.22:524][783]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.23:369][798]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.23:939][810]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.24:488][820]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.25:189][833]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.26:111][851]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.27:043][869]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.27:356][873]LogEditorViewport: Clicking on Actor (double click): PickUpBaseBPRing_C (PickUpBaseBPRing6)
+[2018.07.21-05.50.27:724][879]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.28:553][894]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing6)
+[2018.07.21-05.50.29:002][900]LogEditorViewport: Clicking on Component (LMB): BoxComponent (InnerCollision)
+[2018.07.21-05.50.29:860][915]LogEditorViewport: Clicking on Component (LMB): BoxComponent (InnerCollision)
+[2018.07.21-05.50.30:581][930]LogEditorViewport: Clicking on Component (LMB): BoxComponent (InnerCollision)
+[2018.07.21-05.50.30:635][930]LogEditorViewport: Clicking on Actor (double click): PickUpBaseBPRing_C (PickUpBaseBPRing6)
+[2018.07.21-05.50.32:270][969]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing5)
+[2018.07.21-05.50.34:287][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.50.37:976][105]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.39:379][132]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.40:059][145]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.40:738][157]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing5)
+[2018.07.21-05.50.41:007][159]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (Sprite)
+[2018.07.21-05.50.43:552][208]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (Sprite)
+[2018.07.21-05.50.45:883][255]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.46:993][276]LogEditorViewport: Clicking on Actor (LMB): PickUpBaseBPRing_C (PickUpBaseBPRing5)
+[2018.07.21-05.50.48:553][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.50.50:963][369]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.51:933][387]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.52:575][399]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-05.50.52:890][403]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.07.21-05.50.54:616][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-05.51.02:244][631]LogSlate: Took 0.049887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.21-05.52.24:875][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-05.52.25:143][259]LogSavePackage: Save=134.52ms
+[2018.07.21-05.52.25:143][259]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/Main2212B96946103F3E040A69A3178889DE.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Maps/Main.umap'
+[2018.07.21-05.52.25:147][259]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Maps/Main.umap
+[2018.07.21-05.53.43:920][917]LogRenderer: Reallocating scene render targets to support 856x396 Format 10 NumSamples 1 (Frame:4848).
+[2018.07.21-08.54.16:543][995]LogHttp: Warning: 0000024F84D59D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-08.54.16:543][995]LogHttp: Warning: 0000024F84D59D80: libcurl info message cache 0 (Connection 5 seems to be dead!)
+[2018.07.21-08.54.16:543][995]LogHttp: Warning: 0000024F84D59D80: libcurl info message cache 1 (Closing connection 5)
+[2018.07.21-08.54.16:543][995]LogHttp: Warning: 0000024F84D59D80: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-08.54.16:544][995]LogHttp: Warning: 0000024F84D59D80: libcurl info message cache 3 (Closing connection 6)
+[2018.07.21-15.51.46:436][ 63]LogHttp: Warning: 0000024F84D58400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-15.51.46:436][ 63]LogHttp: Warning: 0000024F84D58400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-15.51.46:437][ 63]LogHttp: Warning: 0000024F84D58400: libcurl info message cache 1 (Closing connection 7)
+[2018.07.21-15.57.05:708][500]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-15.57.09:390][588]LogEditorViewport: Clicking Background
+[2018.07.21-15.57.51:563][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-15.58.49:526][397]BlueprintLog: New page: Compile PlayerBP
+[2018.07.21-15.58.49:666][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024fb29b0f00, Size=1296
+[2018.07.21-15.58.49:666][397]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500c688100, Size=1296, Default__PlayerBP_C Function /Engine/Transient.REINST_PlayerBP_C_56:ExecuteUbergraph_PlayerBP
+[2018.07.21-15.58.49:694][397]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500c6c6400, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-15.58.52:366][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f847e6860, Size=32
+[2018.07.21-15.58.52:438][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-15.58.52:736][397]LogSavePackage: Save=288.89ms
+[2018.07.21-15.58.52:736][397]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBPF6227C294BB6B7AA8800DDB4ED511A1E.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-15.58.52:741][397]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-15.58.54:593][449]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-15.58.54:626][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-15.58.54:626][449]PIE: New page: PIE session: Main (Jul 21, 2018, 7:58:54 AM)
+[2018.07.21-15.58.54:626][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-15.58.54:631][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005079s)
+[2018.07.21-15.58.54:632][449]LogAIModule: Creating AISystem for world Main
+[2018.07.21-15.58.54:632][449]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.07.21-15.58.54:632][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006246s)
+[2018.07.21-15.58.54:672][449]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-15.58.54:688][449]LogInit: FAudioDevice initialized.
+[2018.07.21-15.58.54:729][449]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-15.58.54:733][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-11.58.54
+[2018.07.21-15.58.54:734][449]LogWorld: Bringing up level for play took: 0.003995
+[2018.07.21-15.58.54:738][449]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.59
+[2018.07.21-15.59.20:679][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-15.59.20:801][483]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-15.59.20:846][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-15.59.20:846][483]PIE: New page: PIE session: Main (Jul 21, 2018, 7:59:20 AM)
+[2018.07.21-15.59.20:846][483]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-15.59.20:852][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005451s)
+[2018.07.21-15.59.20:853][483]LogAIModule: Creating AISystem for world Main
+[2018.07.21-15.59.20:853][483]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2018.07.21-15.59.20:853][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006855s)
+[2018.07.21-15.59.20:892][483]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-15.59.20:903][483]LogInit: FAudioDevice initialized.
+[2018.07.21-15.59.20:940][483]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-15.59.20:943][483]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-11.59.20
+[2018.07.21-15.59.20:944][483]LogWorld: Bringing up level for play took: 0.003154
+[2018.07.21-15.59.20:948][483]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.801
+[2018.07.21-15.59.43:556][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.00.37:331][121]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250136655a0, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.37:381][121]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250136655a0, Size=4
+[2018.07.21-16.00.37:381][121]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250136655a0, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_60:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.37:394][121]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250136661d0, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.40:744][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250136661d0, Size=4
+[2018.07.21-16.00.40:744][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500b3ea9c8, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_62:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.40:811][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500b3e9d00, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.41:140][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002500b3e9d00, Size=4
+[2018.07.21-16.00.41:140][355]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500b3e9d00, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_64:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.41:151][355]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025013667e08, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.45:304][724]BlueprintLog: New page: Compile PlayerBP
+[2018.07.21-16.00.45:362][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025013667e08, Size=4
+[2018.07.21-16.00.45:363][724]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500b3e84d0, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_70:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.45:425][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002500c6c6400, Size=1296
+[2018.07.21-16.00.45:425][724]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025014593200, Size=1296, PlayerBP_C_74 Function /Engine/Transient.REINST_PlayerBP_C_74:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.45:447][724]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025014318f00, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.00.45:824][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002500b3e84d0, Size=4
+[2018.07.21-16.00.45:894][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-16.00.46:202][724]LogSavePackage: Save=298.73ms
+[2018.07.21-16.00.46:202][724]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBP42292ECD42D3EDB8E62EFFAFF7CAF4C7.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-16.00.46:206][724]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-16.01.02:310][861]LogRenderer: Reallocating scene render targets to support 856x464 Format 10 NumSamples 1 (Frame:1).
+[2018.07.21-16.01.05:507][945]LogSlate: Window 'Debug' being destroyed
+[2018.07.21-16.01.47:899][478]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.01.47:973][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.01.47:974][478]PIE: New page: PIE session: Main (Jul 21, 2018, 8:01:47 AM)
+[2018.07.21-16.01.47:974][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-16.01.47:979][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005441s)
+[2018.07.21-16.01.47:980][478]LogAIModule: Creating AISystem for world Main
+[2018.07.21-16.01.47:981][478]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2018.07.21-16.01.47:981][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.007054s)
+[2018.07.21-16.01.48:019][478]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-16.01.48:034][478]LogInit: FAudioDevice initialized.
+[2018.07.21-16.01.48:661][478]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-16.01.48:665][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-12.01.48
+[2018.07.21-16.01.48:666][478]LogWorld: Bringing up level for play took: 0.004484
+[2018.07.21-16.01.48:679][478]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.531
+[2018.07.21-16.01.49:105][478]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.21-16.02.24:405][ 76]LogBlueprintUserMessages: [GameControllerBP_C_0] Mushroom
+[2018.07.21-16.03.19:450][ 71]LogSlate: Window 'FirstGamePlatformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.21-16.03.34:722][536]BlueprintLog: New page: Compile PlayerBP
+[2018.07.21-16.03.34:904][536]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025014318f00, Size=1296
+[2018.07.21-16.03.34:904][536]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025016099600, Size=1296, PlayerBP_C_131 Function /Engine/Transient.REINST_PlayerBP_C_84:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.03.34:940][536]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025016061600, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.03.35:450][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-16.03.35:649][536]LogSavePackage: Save=186.38ms
+[2018.07.21-16.03.35:649][536]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBP91E38C41473270F403A783B9C10FFB5D.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-16.03.35:654][536]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-16.03.37:519][571]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.03.37:573][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.03.37:574][571]PIE: New page: PIE session: Main (Jul 21, 2018, 8:03:37 AM)
+[2018.07.21-16.03.37:574][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-16.03.37:582][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008070s)
+[2018.07.21-16.03.37:583][571]LogAIModule: Creating AISystem for world Main
+[2018.07.21-16.03.37:583][571]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2018.07.21-16.03.37:584][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.009749s)
+[2018.07.21-16.03.37:635][571]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-16.03.37:647][571]LogInit: FAudioDevice initialized.
+[2018.07.21-16.03.37:687][571]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-16.03.37:691][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-12.03.37
+[2018.07.21-16.03.37:692][571]LogWorld: Bringing up level for play took: 0.003629
+[2018.07.21-16.03.37:695][571]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.452
+[2018.07.21-16.29.17:175][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.29.17:177][199]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.29.17:212][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.29.17:212][199]PIE: New page: PIE session: Main (Jul 21, 2018, 8:29:17 AM)
+[2018.07.21-16.29.17:212][199]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-16.29.17:217][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005058s)
+[2018.07.21-16.29.17:218][199]LogAIModule: Creating AISystem for world Main
+[2018.07.21-16.29.17:219][199]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2018.07.21-16.29.17:219][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006720s)
+[2018.07.21-16.29.17:252][199]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-16.29.17:276][199]LogInit: FAudioDevice initialized.
+[2018.07.21-16.29.17:320][199]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-16.29.17:323][199]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.21-12.29.17
+[2018.07.21-16.29.17:324][199]LogWorld: Bringing up level for play took: 0.003044
+[2018.07.21-16.29.17:327][199]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.821
+[2018.07.21-16.30.11:384][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.30.23:111][798]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500b3e9140, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.30.29:835][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002500b3e9140, Size=4
+[2018.07.21-16.30.29:835][920]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025007b825c8, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_88:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.30.29:856][920]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025013667278, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.30.33:624][989]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025013667278, Size=4
+[2018.07.21-16.30.33:624][989]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025013667278, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_90:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.30.33:643][989]LogUObjectGlobals: Created PersistentFrame Addr=0x000002500b3e9bf8, Size=4, Default__SKEL_PlayerBP_C Function /Game/Blueprint/PlayerBP.SKEL_PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.31.23:656][149]BlueprintLog: New page: Compile PlayerBP
+[2018.07.21-16.31.23:730][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002500b3e9bf8, Size=4
+[2018.07.21-16.31.23:730][149]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025006fba858, Size=4, Default__SKEL_PlayerBP_C Function /Engine/Transient.REINST_SKEL_PlayerBP_C_96:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.31.23:807][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025016061600, Size=1296
+[2018.07.21-16.31.23:807][149]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025021510800, Size=1296, PlayerBP_C_204 Function /Engine/Transient.REINST_PlayerBP_C_100:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.31.23:839][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f6ff200, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.31.24:201][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025006fba858, Size=4
+[2018.07.21-16.31.24:285][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-16.31.24:529][149]LogSavePackage: Save=175.02ms
+[2018.07.21-16.31.24:529][149]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBPD096653242459CD30E4D1D88C5503EFA.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-16.31.24:533][149]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-16.31.32:139][733]BlueprintLog: New page: Compile PlayerBP
+[2018.07.21-16.31.32:331][733]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f6ff200, Size=1296
+[2018.07.21-16.31.32:331][733]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501eaaeb00, Size=1296, PlayerBP_C_237 Function /Engine/Transient.REINST_PlayerBP_C_110:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.31.32:359][733]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f750800, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.31.32:628][733]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025021510800, Size=1296
+[2018.07.21-16.31.32:703][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-16.31.32:884][733]LogSavePackage: Save=171.90ms
+[2018.07.21-16.31.32:884][733]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBPE35C699F4F9AB2903091FDA76E5E0236.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-16.31.32:889][733]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-16.33.27:633][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.038
+[2018.07.21-16.33.27:683][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/PlayerBP] ([1] browsable assets)...
+[2018.07.21-16.33.27:684][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/PlayerBP]
+[2018.07.21-16.33.27:684][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Saved/Autosaves/Game/Blueprint/PlayerBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.07.21-16.33.27:894][518]LogSavePackage: Save=201.74ms
+[2018.07.21-16.33.27:894][518]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBP_Auto1F0E291AB4AC4669B3EFC698254C5E8E3.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Saved/Autosaves/Game/Blueprint/PlayerBP_Auto1.uasset'
+[2018.07.21-16.33.27:939][518]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Saved/Autosaves/Game/Blueprint/PlayerBP_Auto1.uasset
+[2018.07.21-16.33.27:939][518]LogFileHelpers: Auto-saving content packages took 0.306
+[2018.07.21-16.47.57:137][112]BlueprintLog: New page: Compile PlayerBP
+[2018.07.21-16.47.57:302][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f750800, Size=1296
+[2018.07.21-16.47.57:302][112]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025006b03200, Size=1296, PlayerBP_C_254 Function /Engine/Transient.REINST_PlayerBP_C_120:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.47.57:337][112]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025016211d00, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.47.57:985][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-16.47.58:251][112]LogSavePackage: Save=247.37ms
+[2018.07.21-16.47.58:251][112]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBPDB3FC34047F5A2350BAAB4BDE601ACDD.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-16.47.58:257][112]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-16.47.59:941][149]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.47.59:991][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.47.59:991][149]PIE: New page: PIE session: Main (Jul 21, 2018, 8:47:59 AM)
+[2018.07.21-16.47.59:991][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-16.47.59:999][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007672s)
+[2018.07.21-16.48.00:003][149]LogAIModule: Creating AISystem for world Main
+[2018.07.21-16.48.00:004][149]LogPlayLevel: PIE: World Init took: (0.004348s)
+[2018.07.21-16.48.00:004][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.012396s)
+[2018.07.21-16.48.00:079][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025006b03200, Size=1296
+[2018.07.21-16.48.00:086][149]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-16.48.00:100][149]LogInit: FAudioDevice initialized.
+[2018.07.21-16.48.00:142][149]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-16.48.00:146][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.07.21-12.48.00
+[2018.07.21-16.48.00:147][149]LogWorld: Bringing up level for play took: 0.003611
+[2018.07.21-16.48.00:151][149]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.025
+[2018.07.21-16.53.51:953][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.54.20:129][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.54.20:178][ 52]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.21-16.54.20:312][ 52]LogPlayLevel: [PlayLevel] Compiling PlayerBP before play...
+[2018.07.21-16.54.20:433][ 52]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025016211d00, Size=1296
+[2018.07.21-16.54.20:433][ 52]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501e30e400, Size=1296, PlayerBP_C_271 Function /Engine/Transient.REINST_PlayerBP_C_130:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.54.20:476][ 52]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025021291d00, Size=1296, Default__PlayerBP_C Function /Game/Blueprint/PlayerBP.PlayerBP_C:ExecuteUbergraph_PlayerBP
+[2018.07.21-16.54.20:986][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerBP" FILE="../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" SILENT=true
+[2018.07.21-16.54.21:261][ 52]LogSavePackage: Save=231.76ms
+[2018.07.21-16.54.21:261][ 52]LogSavePackage: Moving '../../../../../Unreal Games/FirstGamePlatformer/Saved/PlayerBP98856F3F42312622930CEC8C8AAC87E2.tmp' to '../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset'
+[2018.07.21-16.54.21:265][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset
+[2018.07.21-16.54.21:305][ 52]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501e30e400, Size=1296
+[2018.07.21-16.54.21:307][ 52]LogPlayLevel: PlayLevel: Blueprint regeneration took 1129 ms (1 blueprints)
+[2018.07.21-16.54.21:307][ 52]PIE: New page: PIE session: Main (Jul 21, 2018, 8:54:21 AM)
+[2018.07.21-16.54.21:308][ 52]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.07.21-16.54.21:312][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004162s)
+[2018.07.21-16.54.21:313][ 52]LogAIModule: Creating AISystem for world Main
+[2018.07.21-16.54.21:313][ 52]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2018.07.21-16.54.21:313][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005676s)
+[2018.07.21-16.54.21:347][ 52]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.21-16.54.21:360][ 52]LogInit: FAudioDevice initialized.
+[2018.07.21-16.54.21:461][ 52]LogLoad: Game class is 'GameControllerBP_C'
+[2018.07.21-16.54.21:465][ 52]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.07.21-12.54.21
+[2018.07.21-16.54.21:466][ 52]LogWorld: Bringing up level for play took: 0.003745
+[2018.07.21-16.54.21:474][ 52]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.348
+[2018.07.21-16.54.45:984][468]LogSlate: Window 'FirstGamePlatformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.21-16.56.42:541][183]LogEditorViewport: Clicking Background
+[2018.07.21-16.56.46:700][262]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.56.48:994][291]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.56.49:835][306]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.56.50:622][319]LogEditorViewport: Clicking on Actor (LMB): LadderBP_C (LadderBP)
+[2018.07.21-16.56.50:869][320]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (NODE_AddPaperSpriteComponent-0_13)
+[2018.07.21-16.57.01:405][526]Cmd: TRANSACTION UNDO
+[2018.07.21-16.57.01:405][526]LogEditorTransaction: Undo Move Components
+[2018.07.21-16.57.01:880][533]Cmd: TRANSACTION UNDO
+[2018.07.21-16.57.01:880][533]LogEditorTransaction: Undo Move Components
+[2018.07.21-16.57.18:267][852]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.57.20:287][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.57.21:772][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:772][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:774][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:774][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:775][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:775][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:780][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:781][908]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:830][909]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:830][909]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:835][909]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:836][909]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:844][909]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:844][909]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:870][910]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:870][910]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:873][910]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:874][910]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:900][910]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:900][910]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:930][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:931][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:934][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:935][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:938][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:939][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:964][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:964][911]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:992][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:992][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:997][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.21:998][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:001][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:002][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:007][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:008][912]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:042][913]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:043][913]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:046][913]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:046][913]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:075][914]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:075][914]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:101][915]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:101][915]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:108][915]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:109][915]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:141][916]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:142][916]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:145][916]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:146][916]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:197][917]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:198][917]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:250][918]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:251][918]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:762][925]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:763][925]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:783][925]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:783][925]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:784][925]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.22:785][925]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.24:711][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.57.25:678][979]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.25:678][979]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.25:679][979]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.25:680][979]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:295][ 31]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:295][ 31]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:446][ 34]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:446][ 34]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:495][ 35]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:496][ 35]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:546][ 36]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:546][ 36]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:596][ 37]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:596][ 37]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:646][ 38]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:647][ 38]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:696][ 39]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:697][ 39]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:745][ 40]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:745][ 40]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:794][ 41]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:795][ 41]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:844][ 42]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:844][ 42]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:895][ 43]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:896][ 43]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:945][ 44]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:945][ 44]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:994][ 45]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.28:994][ 45]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.29:297][ 51]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.29:298][ 51]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:209][126]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:210][126]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:261][127]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:261][127]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:310][128]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:310][128]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:360][129]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:360][129]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:411][130]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:411][130]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:462][131]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:463][131]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:511][132]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:512][132]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:562][133]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:562][133]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:613][134]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:613][134]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:661][135]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:662][135]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:711][136]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:712][136]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:761][137]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:761][137]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:811][138]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:811][138]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:861][139]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:861][139]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:911][140]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:912][140]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:964][141]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.33:965][141]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:361][149]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:362][149]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:413][150]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:413][150]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:463][151]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:464][151]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:513][152]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:513][152]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:562][153]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:563][153]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:612][154]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:612][154]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:663][155]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:663][155]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:714][156]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:714][156]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:764][157]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:765][157]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:915][160]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:916][160]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:967][161]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.34:967][161]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:411][170]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:411][170]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:461][171]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:461][171]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:612][174]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:612][174]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:716][176]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:716][176]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:767][177]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.35:767][177]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.36:359][189]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.36:360][189]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.57.55:997][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.21-16.57.56:985][572]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.57.57:183][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.21-16.58.01:775][654]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.01:874][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.21-16.58.02:563][665]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.03:632][685]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.04:416][698]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.05:044][708]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.08:551][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.58.44:446][496]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:446][496]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:496][497]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:496][497]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:546][498]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:547][498]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:595][499]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:596][499]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:645][500]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:645][500]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:695][501]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:695][501]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:745][502]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:745][502]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:794][503]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:794][503]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:844][504]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.44:844][504]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:042][508]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:042][508]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:092][509]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:092][509]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:143][510]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:143][510]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:192][511]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:193][511]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:243][512]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:243][512]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:291][513]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:291][513]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:341][514]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:341][514]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:388][515]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.45:389][515]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.58.46:295][531]LogEditorViewport: Clicking on Actor (LMB): LadderBP_C (LadderBP)
+[2018.07.21-16.58.47:898][561]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.48:692][573]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.49:665][589]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.58.51:012][611]LogEditorViewport: Clicking on Actor (LMB): LadderBP_C (LadderBP)
+[2018.07.21-16.58.52:984][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.59.10:694][997]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (SpriteSheet_TileMap)
+[2018.07.21-16.59.11:592][ 10]LogEditorViewport: Clicking on Actor (LMB): LadderBP_C (LadderBP2)
+[2018.07.21-16.59.12:840][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.59.15:509][ 82]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.15:510][ 82]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.16:737][106]LogEditorViewport: Clicking on Actor (LMB): LadderBP_C (LadderBP2)
+[2018.07.21-16.59.21:254][192]LogScriptCore: Warning: Script Msg: Divide by zero detected: 1.980530 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:255][192]LogScriptCore: Warning: Script Msg: Divide by zero detected: 1.980530 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:304][193]LogScriptCore: Warning: Script Msg: Divide by zero detected: 3.961060 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:305][193]LogScriptCore: Warning: Script Msg: Divide by zero detected: 3.961060 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:353][194]LogScriptCore: Warning: Script Msg: Divide by zero detected: 4.951355 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:354][194]LogScriptCore: Warning: Script Msg: Divide by zero detected: 4.951355 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:403][195]LogScriptCore: Warning: Script Msg: Divide by zero detected: 6.931885 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:403][195]LogScriptCore: Warning: Script Msg: Divide by zero detected: 6.931885 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:452][196]LogScriptCore: Warning: Script Msg: Divide by zero detected: 8.912415 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:453][196]LogScriptCore: Warning: Script Msg: Divide by zero detected: 8.912415 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:502][197]LogScriptCore: Warning: Script Msg: Divide by zero detected: 9.902710 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:503][197]LogScriptCore: Warning: Script Msg: Divide by zero detected: 9.902710 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:552][198]LogScriptCore: Warning: Script Msg: Divide by zero detected: 10.893005 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:553][198]LogScriptCore: Warning: Script Msg: Divide by zero detected: 10.893005 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:601][199]LogScriptCore: Warning: Script Msg: Divide by zero detected: 12.873535 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:602][199]LogScriptCore: Warning: Script Msg: Divide by zero detected: 12.873535 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:652][200]LogScriptCore: Warning: Script Msg: Divide by zero detected: 14.854065 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:653][200]LogScriptCore: Warning: Script Msg: Divide by zero detected: 14.854065 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:752][202]LogScriptCore: Warning: Script Msg: Divide by zero detected: 17.824890 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:753][202]LogScriptCore: Warning: Script Msg: Divide by zero detected: 17.824890 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:803][203]LogScriptCore: Warning: Script Msg: Divide by zero detected: 19.805420 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:804][203]LogScriptCore: Warning: Script Msg: Divide by zero detected: 19.805420 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:853][204]LogScriptCore: Warning: Script Msg: Divide by zero detected: 20.795715 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:854][204]LogScriptCore: Warning: Script Msg: Divide by zero detected: 20.795715 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:903][205]LogScriptCore: Warning: Script Msg: Divide by zero detected: 22.776245 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:904][205]LogScriptCore: Warning: Script Msg: Divide by zero detected: 22.776245 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:952][206]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.756775 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.21:953][206]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.756775 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:003][207]LogScriptCore: Warning: Script Msg: Divide by zero detected: 28.717834 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:004][207]LogScriptCore: Warning: Script Msg: Divide by zero detected: 28.717834 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:052][208]LogScriptCore: Warning: Script Msg: Divide by zero detected: 32.678894 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:053][208]LogScriptCore: Warning: Script Msg: Divide by zero detected: 32.678894 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:102][209]LogScriptCore: Warning: Script Msg: Divide by zero detected: 35.649719 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:103][209]LogScriptCore: Warning: Script Msg: Divide by zero detected: 35.649719 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:152][210]LogScriptCore: Warning: Script Msg: Divide by zero detected: 43.571838 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:153][210]LogScriptCore: Warning: Script Msg: Divide by zero detected: 43.571838 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:202][211]LogScriptCore: Warning: Script Msg: Divide by zero detected: 53.474548 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:203][211]LogScriptCore: Warning: Script Msg: Divide by zero detected: 53.474548 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:252][212]LogScriptCore: Warning: Script Msg: Divide by zero detected: 65.357788 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:253][212]LogScriptCore: Warning: Script Msg: Divide by zero detected: 65.357788 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:301][213]LogScriptCore: Warning: Script Msg: Divide by zero detected: 73.279907 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:301][213]LogScriptCore: Warning: Script Msg: Divide by zero detected: 73.279907 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:350][214]LogScriptCore: Warning: Script Msg: Divide by zero detected: 83.182617 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:351][214]LogScriptCore: Warning: Script Msg: Divide by zero detected: 83.182617 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:399][215]LogScriptCore: Warning: Script Msg: Divide by zero detected: 92.095032 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:400][215]LogScriptCore: Warning: Script Msg: Divide by zero detected: 92.095032 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:449][216]LogScriptCore: Warning: Script Msg: Divide by zero detected: 98.036621 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:450][216]LogScriptCore: Warning: Script Msg: Divide by zero detected: 98.036621 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:499][217]LogScriptCore: Warning: Script Msg: Divide by zero detected: 107.939331 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:499][217]LogScriptCore: Warning: Script Msg: Divide by zero detected: 107.939331 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:549][218]LogScriptCore: Warning: Script Msg: Divide by zero detected: 118.832275 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:549][218]LogScriptCore: Warning: Script Msg: Divide by zero detected: 118.832275 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:598][219]LogScriptCore: Warning: Script Msg: Divide by zero detected: 125.764160 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:599][219]LogScriptCore: Warning: Script Msg: Divide by zero detected: 125.764160 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:648][220]LogScriptCore: Warning: Script Msg: Divide by zero detected: 128.734985 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:648][220]LogScriptCore: Warning: Script Msg: Divide by zero detected: 128.734985 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:695][221]LogScriptCore: Warning: Script Msg: Divide by zero detected: 129.725281 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:696][221]LogScriptCore: Warning: Script Msg: Divide by zero detected: 129.725281 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:794][223]LogScriptCore: Warning: Script Msg: Divide by zero detected: 125.764221 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:794][223]LogScriptCore: Warning: Script Msg: Divide by zero detected: 125.764221 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:844][224]LogScriptCore: Warning: Script Msg: Divide by zero detected: 105.958862 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:845][224]LogScriptCore: Warning: Script Msg: Divide by zero detected: 105.958862 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:892][225]LogScriptCore: Warning: Script Msg: Divide by zero detected: 94.075623 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:893][225]LogScriptCore: Warning: Script Msg: Divide by zero detected: 94.075623 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:941][226]LogScriptCore: Warning: Script Msg: Divide by zero detected: 83.182678 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:942][226]LogScriptCore: Warning: Script Msg: Divide by zero detected: 83.182678 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:991][227]LogScriptCore: Warning: Script Msg: Divide by zero detected: 77.241089 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.22:992][227]LogScriptCore: Warning: Script Msg: Divide by zero detected: 77.241089 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:039][228]LogScriptCore: Warning: Script Msg: Divide by zero detected: 73.280029 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:039][228]LogScriptCore: Warning: Script Msg: Divide by zero detected: 73.280029 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:087][229]LogScriptCore: Warning: Script Msg: Divide by zero detected: 70.309204 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:087][229]LogScriptCore: Warning: Script Msg: Divide by zero detected: 70.309204 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:283][233]LogScriptCore: Warning: Script Msg: Divide by zero detected: 69.318909 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:283][233]LogScriptCore: Warning: Script Msg: Divide by zero detected: 69.318909 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:333][234]LogScriptCore: Warning: Script Msg: Divide by zero detected: 67.338379 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:334][234]LogScriptCore: Warning: Script Msg: Divide by zero detected: 67.338379 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:380][235]LogScriptCore: Warning: Script Msg: Divide by zero detected: 67.338379 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.23:382][235]LogScriptCore: Warning: Script Msg: Divide by zero detected: 67.338379 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.27:966][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.59.31:890][375]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.31:890][375]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprint/LadderBP.LadderBP_C:UserConstructionScript
+
+[2018.07.21-16.59.37:568][702]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.21-16.59.40:781][702]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.189 s
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: 
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: Stack: 
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000AA53B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000AA29AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000AA2AECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A3213DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A9DDB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A721C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A70A77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A70AAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A71E6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A8A26057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A8A2BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-16.59.40:781][702]LogOutputDevice: Error: [Callstack] 0x00000000A8C5C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000A8A80475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000A8A58360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000A8A4B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000C8BAE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000C8BA1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000C8BB052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000C8B9D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000DF76B85D USER32.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000DF76B1EF USER32.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000C8BB1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x000000008BA45475 UE4Editor.exe!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x000000008BA56BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x000000008BA56C4A UE4Editor.exe!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x000000008BA64177 UE4Editor.exe!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x000000008BA65B87 UE4Editor.exe!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000DF511FE4 KERNEL32.DLL!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: [Callstack] 0x00000000E03CCB31 ntdll.dll!UnknownFunction []
+[2018.07.21-16.59.40:782][702]LogOutputDevice: Error: 
+[2018.07.21-16.59.40:787][702]LogStats:                SubmitErrorReport -  0.000 s

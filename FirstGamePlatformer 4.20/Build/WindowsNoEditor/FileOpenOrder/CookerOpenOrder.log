@@ -1,0 +1,310 @@
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 0
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Materials/MaskedUnlitSpriteMaterial2.uasset" 1
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Dust.uasset" 2
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Black.uasset" 3
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Player.uasset" 4
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/SpriteSheet.uasset" 5
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/TileSet/SpriteSheet_TileSet.uasset" 6
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Tilemap/SpriteSheet_TileMap.uasset" 7
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Tileset/Test.uasset" 8
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD/Instructions.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 10
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 12
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 13
+"../../../Engine/Content/BasicShapes/Cone.uasset" 14
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 15
+"../../../Engine/Content/BasicShapes/Cube.uasset" 16
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 17
+"../../../Engine/Content/BasicShapes/Plane.uasset" 18
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 19
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 20
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 21
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 22
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 23
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 24
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 27
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 28
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 29
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 30
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 31
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 32
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 33
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 34
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 35
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 36
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 37
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 38
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 39
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 40
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 41
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 42
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 43
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 44
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 45
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 46
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 47
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 48
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 49
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 50
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 51
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 52
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 53
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 54
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 55
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 56
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 57
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 58
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 59
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 60
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 61
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 62
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 63
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 64
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 65
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 66
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 67
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 68
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 69
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 70
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 71
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 72
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 73
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 74
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 75
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 76
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 77
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 78
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 80
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 81
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 82
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 83
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 84
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 86
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 87
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 88
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 89
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 90
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 91
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 92
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 93
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 94
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 96
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 97
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 98
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 99
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 100
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 101
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 102
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 103
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 104
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 105
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 106
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 107
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 108
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 109
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 110
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 111
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 112
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 113
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 114
+"../../../Engine/Content/EngineSounds/Master.uasset" 115
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 117
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 118
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 119
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 120
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 121
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 129
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 130
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 131
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 132
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 133
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 134
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 135
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 136
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 137
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 138
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 139
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 140
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 141
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 142
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 143
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 144
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 145
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 146
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 147
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 148
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 149
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 150
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 151
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 152
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 153
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 154
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 155
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 156
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 157
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 158
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 159
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 160
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 161
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 162
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 163
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 164
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 165
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 166
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 167
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 168
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 169
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 170
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 171
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 172
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 173
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 174
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 175
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 176
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 177
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 178
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 179
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 180
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 181
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 182
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 183
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 184
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 185
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 186
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 187
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 188
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 189
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 190
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 191
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 192
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 193
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 194
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 195
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 196
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 197
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 198
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 199
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 200
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 201
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 202
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 203
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 204
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 205
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 206
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 207
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 208
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 209
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 210
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 211
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 212
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 213
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 214
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 215
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 216
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 217
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 218
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 219
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 220
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 221
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 223
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 224
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 226
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 227
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 228
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 229
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 230
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 231
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 232
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 233
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 234
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 235
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 237
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 238
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 239
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 240
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 241
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 242
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 243
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 244
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Pickups/PickUpBaseBP.uasset" 245
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/HealthIcon.uasset" 246
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/HealthIcon_Sprite.uasset" 247
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Pickups/PickUpBaseBPHealthPack.uasset" 248
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Mushroom.uasset" 249
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Mushroom_Sprite_0.uasset" 250
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Pickups/PickUpBaseBPMushroom.uasset" 251
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Ring.uasset" 252
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Ring_Sprite_0.uasset" 253
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Pickups/PickUpBaseBPRing.uasset" 254
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD/HUD.uasset" 255
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/GameControllerBP.uasset" 256
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Materials/DefaultSpriteMaterial_2.uasset" 257
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Skel.uasset" 258
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_3.uasset" 259
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_4.uasset" 260
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Flipbook/fSkelRun.uasset" 261
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/EnemyBP.uasset" 262
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Projectile.uasset" 263
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Projectile_Sprite.uasset" 264
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Projectiles/ProjectileBP.uasset" 265
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/InvisibleSprite.uasset" 266
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/InvisibleSprite_Sprite.uasset" 267
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Flipbook/fDeath.uasset" 268
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_10.uasset" 269
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_11.uasset" 270
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_12.uasset" 271
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_13.uasset" 272
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_9.uasset" 273
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Flipbook/fSkelAttack.uasset" 274
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_7.uasset" 275
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_8.uasset" 276
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Flipbook/fSkelClimb.uasset" 277
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_0.uasset" 278
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_1.uasset" 279
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_2.uasset" 280
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Flipbook/fSkelIdle.uasset" 281
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_5.uasset" 282
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Skeleton/Skel_Skel_6.uasset" 283
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Flipbook/fSkelJump.uasset" 284
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Dust.uasset" 285
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Particles/Dust.uasset" 286
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Particles/pDust.uasset" 287
+"../../../Engine/Content/EngineResources/Black.uasset" 288
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Exit.uasset" 289
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/playagain.uasset" 290
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/HUD/GameOver.uasset" 291
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Data/AnimationState.uasset" 292
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/PlayerBP.uasset" 293
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Materials/mArrow.uasset" 294
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Arrow.uasset" 295
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Arrow_Sprite.uasset" 296
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Arrow/ArrowBP.uasset" 297
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/ArrowSpawner.uasset" 298
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/ArrowSpawner_Sprite.uasset" 299
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Arrow/ArrowSpawnerBP.uasset" 300
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/FollowCameraBP.uasset" 301
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Textures/Rung.uasset" 302
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Sprites/Rung_Sprite.uasset" 303
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Ladder/LadderBP.uasset" 304
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Blueprint/Platforms/MovingPlatformBP.uasset" 305
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Maps/Main_BuiltData.uasset" 306
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Art/Tileset/SpriteSheet_TileMap.uasset" 307
+"../../../../../Unreal Games/FirstGamePlatformer/Content/Maps/Main.umap" 308
+"../../../Engine/Content/Maps/Entry.umap" 309
