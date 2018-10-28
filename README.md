@@ -15,5 +15,5 @@ This is where the game starts
 ![Enemies](https://github.com/humdan123/UnrealEngine4PlatformerGame/blob/master/Screenshots/GameEnemies.png)
 The enemies in the game (arrow shooter and walking enemy)
 
-![Death Screen](https://github.com/humdan123/UnrealEngine4PlatformerGame/blob/master/Screenshots/GameScreen.png)
+![Death Screen](https://github.com/humdan123/UnrealEngine4PlatformerGame/blob/master/Screenshots/DeathScreen.png)
 The death screen of the game
